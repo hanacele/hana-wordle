@@ -1,1 +1,1 @@
-Basically NYT's Wordle minus the limiting 6 tries. Yaaaaay
+Basically NYT's Wordle minus the limiting 6 tries
